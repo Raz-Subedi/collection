@@ -77,6 +77,18 @@ public class ArrayLists {
         //While inserting and removing the elements in the middle O(n).
 
 
+
+
+        /* ArrayList li = new ArrayList();
+        li.add(1);
+        li.add("raz");
+        System.out.println(li);
+
+        ArrayList li = new ArrayList<>();
+        li.add(15);
+        li.add("rax");
+        li.add(50.000);
+        System.out.println(li);*/
     }
 
 
